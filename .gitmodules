@@ -1,0 +1,6 @@
+[submodule "libgraphics"]
+	path = libgraphics
+	url = https://github.com/LukasInnerhofer/libgraphics
+[submodule "libutilities"]
+	path = libutilities
+	url = https://github.com/LukasInnerhofer/libutilities
